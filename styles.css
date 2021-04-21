@@ -19,6 +19,12 @@
   font-size: 22px;
   text-decoration: none;
   color: #000;
+
+  transition: all 0.2s;
+}
+
+.header a:hover {
+  filter: brightness(0.8)
 }
 
 .header:nth-child(2)  {
