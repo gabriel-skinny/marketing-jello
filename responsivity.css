@@ -13,3 +13,9 @@ body {
     font-size: 85.5%;
   }
 }
+
+@media (max-width: 650px){
+  html{
+    font-size: 65.5%;
+  }
+}
